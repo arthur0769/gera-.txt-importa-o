@@ -6,3 +6,7 @@ Através desse gerador de arquivo de importação a partir da planilha, o proces
 # Exemplo real de um arquivo pronto para importar no sistema
 
 ![Screenshot](projeto_gmn/img/exemplo-real.png)
+
+# Arquivo gerado a partir do projeto
+
+![Screenshot](projeto_gmn/img/txt-gerado.png)
