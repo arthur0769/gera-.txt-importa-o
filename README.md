@@ -10,3 +10,5 @@ Através desse gerador de arquivo de importação a partir da planilha, o proces
 # Arquivo gerado a partir do projeto
 
 ![Screenshot](projeto_gmn/img/txt-gerado.png)
+
+Código dos exames ainda fictícios, e com a sigla da rotina/exame no final do código gerado apenas pra fins de testes.
